@@ -1,2 +1,4 @@
 # Hello-world
-Testing GiyHub
+Testing GitHub
+
+This is a comment made in commit #1
